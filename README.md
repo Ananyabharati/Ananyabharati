@@ -1,3 +1,4 @@
+![logo](https://github.com/Ananyabharati/Ananyabharati/blob/main/banner.png)
 ### Hi there 👋
 
 <!--
