@@ -4,9 +4,11 @@
 <h6 align="center">I am a second-year student at KIIT with proficiency in HTML, CSS, and Java programming languages</h6>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyabharati&label=Profile%20views&color=0e75b6&style=flat" alt="ananyabharati" /> </p>
 
+- [Portfolio](https://ananyabharati.github.io/profile/)
 - 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [Ananyabharati](https://github.com/Ananyabharati)
+
 
 <p align="left">
 </p>
