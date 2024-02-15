@@ -1,7 +1,7 @@
 ![logo](https://github.com/Ananyabharati/Ananyabharati/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Ananya Bharati</h1>
 <h3 align="center">Software Engineer</h3>
-
+<h6 align="center">I am a second-year student at KIIT with proficiency in HTML, CSS, and Java programming languages</h6>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyabharati&label=Profile%20views&color=0e75b6&style=flat" alt="ananyabharati" /> </p>
 
 - 🌱 I’m currently learning **Java**
